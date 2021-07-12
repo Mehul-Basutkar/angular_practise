@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgba(235, 202, 179, 0.651);
+}
+
+#parent{
+    display: flex;
+    width: 100%;
+}
+
+#child{
+    align-self: flex-end;
+}
